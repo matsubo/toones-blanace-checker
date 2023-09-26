@@ -8,4 +8,4 @@ gem "logger"
 
 gem "dotenv"
 
-gem "nokogiri", "~> 1.13"
+gem "nokogiri", "~> 1.14"
